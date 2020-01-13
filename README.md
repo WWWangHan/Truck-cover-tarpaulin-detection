@@ -33,5 +33,6 @@ python realtime_output_demo.py
 ![test_output](https://github.com/WWWangHan/Truck-cover-tarpaulin-detection/blob/master/readme_img/test_output.png)
 
 ### mention
+> This is a classification task, we call it detection just mean we wanna know whether the passing trucks cover the tarpaulin. 
 > Due to the limited deployment environment, we fixed the gpu id for training to 1. Meanwhile, some of the running parameters are loaded from the `cfg/config.ini` so that the user can modify them easily.
 
