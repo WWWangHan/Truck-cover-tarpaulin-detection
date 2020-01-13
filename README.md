@@ -30,7 +30,7 @@ python realtime_output_demo.py
 
 ![copy_file](https://github.com/WWWangHan/Truck-cover-tarpaulin-detection/blob/master/readme_img/copy_file.jpg)
 
-![copy_file](https://github.com/WWWangHan/Truck-cover-tarpaulin-detection/blob/master/readme_img/test_output.png)
+![test_output](https://github.com/WWWangHan/Truck-cover-tarpaulin-detection/blob/master/readme_img/test_output.png)
 
 ### mention
 > Due to the limited deployment environment, we fixed the gpu id for training to 1. Meanwhile, some of the running parameters are loaded from the `cfg/config.ini` so that the user can modify them easily.
